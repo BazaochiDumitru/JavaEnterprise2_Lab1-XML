@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<class>
+    <student>
+        <id>101</id>
+        <firstname>Olga</firstname>
+        <lastname>Criclivaia</lastname>
+        <subject>Math</subject>
+        <marks>9</marks>
+    </student>
+
+    <student>
+        <id>102</id>
+        <firstname>Valentina</firstname>
+        <lastname>Advahova</lastname>
+        <subject>Chemistry</subject>
+        <marks>8</marks>
+    </student>
+
+    <student>
+        <id>103</id>
+        <firstname>Alina</firstname>
+        <lastname>Gutul</lastname>
+        <subject>English</subject>
+        <marks>10</marks>
+    </student>
+
+    <student>
+        <id>104</id>
+        <firstname>Nadejda</firstname>
+        <lastname>Ianciuc</lastname>
+        <subject>Physics</subject>
+        <marks>7</marks>
+    </student>
+</class>
